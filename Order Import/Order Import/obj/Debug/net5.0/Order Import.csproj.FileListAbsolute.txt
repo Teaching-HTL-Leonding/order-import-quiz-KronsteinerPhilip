@@ -1,0 +1,70 @@
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Order Import.exe
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Order Import.deps.json
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Order Import.runtimeconfig.json
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Order Import.runtimeconfig.dev.json
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Order Import.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\ref\Order Import.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Order Import.pdb
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.csprojAssemblyReference.cache
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.AssemblyInfoInputs.cache
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.AssemblyInfo.cs
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.csproj.CoreCompileInputs.cache
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.csproj.CopyComplete
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\ref\Order Import.dll
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.pdb
+C:\Users\Philip K\Desktop\Schule\4.Jahr\Programmieren\Order Import\Order Import\obj\Debug\net5.0\Order Import.genruntimeconfig.cache

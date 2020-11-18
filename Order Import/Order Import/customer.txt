@@ -1,0 +1,4 @@
+﻿﻿CustomerName	CreditLimit
+Cust1	90000000
+Cust2	20000000
+Cust3	30000000

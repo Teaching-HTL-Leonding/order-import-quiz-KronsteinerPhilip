@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Order Import": {
+      "commandName": "Project",
+      "commandLineArgs": "dotnet run -- import customers.txt orders.txt"
+    }
+  }
+}
